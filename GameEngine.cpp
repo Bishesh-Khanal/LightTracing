@@ -10,7 +10,7 @@ GameEngine::GameEngine()
 
 void GameEngine::init(const std::string& path)
 {
-    m_window.create(sf::VideoMode::getDesktopMode(), "Game", sf::Style::Fullscreen);
+    m_window.create(sf::VideoMode::getDesktopMode(), "Game", sf::Style::Default);
     m_width = m_window.getSize().x;
     m_worldWidth = m_window.getSize().x;
     m_height = m_window.getSize().y;
