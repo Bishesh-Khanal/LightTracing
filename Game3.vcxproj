@@ -144,7 +144,6 @@
     <ClCompile Include="EntityManager.cpp" />
     <ClCompile Include="Game3.cpp" />
     <ClCompile Include="GameEngine.cpp" />
-    <ClCompile Include="Physics.cpp" />
     <ClCompile Include="Scene.cpp" />
     <ClCompile Include="ScenePlay.cpp" />
     <ClCompile Include="Vec2.cpp" />
@@ -155,7 +154,6 @@
     <ClInclude Include="Entity.h" />
     <ClInclude Include="EntityManager.h" />
     <ClInclude Include="GameEngine.h" />
-    <ClInclude Include="Physics.h" />
     <ClInclude Include="Scene.h" />
     <ClInclude Include="ScenePlay.h" />
     <ClInclude Include="Vec2.h" />
